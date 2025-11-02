@@ -46,4 +46,6 @@ The connection between the simulator and the Python model is established via **W
 - [Udacity Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim)  
 
 ### 📦 Steps
+##clone this repository
+https://github.com/LuckyTC123/AI_Driven_Car_project.git
 
